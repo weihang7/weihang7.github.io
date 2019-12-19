@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello! I'm Frank (Weihang) Fan, a sophomore student studying Computer Science at Carnegie Mellon University. I will be a Teaching Assistant for 15-455 Undergraduate Complexity Theory this spring. My current research interests are in the analysis of HPC workloads and scheduling workflows in computing clusters.
+Hello! I'm Frank (Weihang) Fan, a senior studying Computer Science with a minor in Sonic Arts at Carnegie Mellon University.
+My current interests are in pedagogical techniques for computer systems, including the development of programming languages for code specification in an educational context. I hope to one day do a PhD in those areas.
+
+Here is my [Resume](Resume.pdf).
