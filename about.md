@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hello! I'm Frank (Weihang) Fan, a senior studying Computer Science with a minor in Sonic Arts at Carnegie Mellon University.
-My current interests are in pedagogical techniques for computer systems, including the development of programming languages for code specification in an educational context. I hope to one day do a PhD in those areas.
+Hello! I'm Weihang (Frank) Fan, a software engineer working at SambaNova Systems in Palo Alto, CA. I graduated with a B.S. in Computer Science with a minor in Sonic Arts from Carnegie Mellon University in 2020.
+
+One of my interests is pedagogical techniques for computer systems, including the development of programming languages for code specification in an educational context. 
 
 Here is my [Resume](Resume.pdf).

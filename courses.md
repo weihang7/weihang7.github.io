@@ -11,8 +11,7 @@ permalink: /courses/
 ## Spring 2020
 - 15-745 Optimizing Compilers for Modern Architectures
   * This is a course on writing optimization passes more than a raw compiler. It is appropriate to take this course without having taken 15-411 Compiler Design.
-- 99-361 Learning About Learning (IDeATe portal course for Learning Design)
-- 03-118 Beer: A Yeast's Perspective
+- \* 99-361 Learning About Learning (IDeATe portal course for Learning Design)
 
 ## Fall 2019
 - TA 15-213
